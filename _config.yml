@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://maria-yampolskaya.github.io/'
 baseurl: ''
-title: 'My website'
+title: 'Maria's website
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -37,8 +37,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+# - title: Blog
+#   url: /blog/
 
 # Footer nav
 navigation_footer:
@@ -52,5 +52,5 @@ collections:
     output: true
     description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      You shouldn't have come here
     feature_image: "https://picsum.photos/2560/600?image=866"

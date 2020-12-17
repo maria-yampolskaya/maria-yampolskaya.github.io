@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: Maria's website
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Maria's website
 ---
 
-There isn't much going on here yet, but watch this space
+Research, personal projects, etc
