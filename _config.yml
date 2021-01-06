@@ -1,6 +1,6 @@
 title: Maria Yampolskaya
 url: "http://maria.boston/"
-baseurl: "about"
+baseurl: "/home"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,8 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "about"
+ - name: "Home"
+   link: "/home"
  - name: "Research"
    link: "research"
  - name: "Photos"
