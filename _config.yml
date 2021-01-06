@@ -11,11 +11,16 @@ footer: yes
 footer_url: "https://github.com/maria-yampolskaya"
 footer_text: "My Github"
 
+favicon: yes
+favicon_location: "{{ site.baseurl }}/bird.png"
+
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
+ - name: "Home"
+   link: ""
  - name: "Research"
    link: "research"
  - name: "Photos"
