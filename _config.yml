@@ -1,13 +1,13 @@
 title: Maria Yampolskaya
 url: "http://maria.boston/"
-baseurl: ""
+baseurl: "about"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "https://github.com/maria-yampolskaya"
 footer_text: "My Github"
 
@@ -20,7 +20,5 @@ nav:
    link: "about"
  - name: "Research"
    link: "research"
-#  - name: "Resume"
-#    link: "resume.pdf"
-#  - name: "Contact"
-#    link: "contact"
+ - name: "Photos"
+   link: "photos"
