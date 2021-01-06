@@ -1,1 +1,1 @@
-Theme from (here)[https://github.com/ankitsultana/researcher]
+Theme from [here](https://github.com/ankitsultana/researcher)
