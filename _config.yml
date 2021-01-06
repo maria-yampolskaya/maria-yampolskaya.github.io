@@ -1,45 +1,26 @@
+title: Maria Yampolskaya
+url: "http://maria.boston/"
+baseurl: "/about"
 
-title: Maria's website #Your awesome title
-email: #youremail@domain.com
-description: > # this means to ignore newlines until "baseurl"
-  Maria Yampolskaya's personal website
-
-baseurl: # the subpath of the site
-url: https://maria-yampolskaya.github.io/ # the base hostname & protocol for your site
-
-permalink: /:year-:month/:title
-timezone:
-
-favicon: /assets/img/favicon.ico
-
-google_analytics: #UA—XXXXXXXX-X
-disqus_shortname: #disqus shortname
-
-user:
-  name: Maria
-  pic: /assets/img/headturn.jpg
-  picAlt: "catbook"
-  job: Physics PhD student
-  aboutme: true # comment this out if you don't need the 'about' page.
-
-exclude:
-  - README.md
-  - LICENSE
-  - github
-
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      comment: true
-
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
-# Filtering Content
-show_drafts: null
-limit_posts: 0
-future:      false
-unpublished: false
+tracking_id: #
+
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/about/"
+ - name: "Research"
+   link: "/research/"
+#  - name: "Resume"
+#    link: "resume.pdf"
+#  - name: "Contact"
+#    link: "contact"
