@@ -1,7 +1,8 @@
 [ORCID](https://orcid.org/0000-0003-2941-2589)
 
 ## Education
-PhD in Physics, Boston University - In Progress (started 2019)
+PhD in Physics, Boston University - in progress
+
 Bachelor of Arts in Physics and Mathematics, Cornell University - May 2019
 
 ## Papers
