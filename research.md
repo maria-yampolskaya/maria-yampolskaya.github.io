@@ -10,13 +10,13 @@ Bachelor of Arts in Physics and Mathematics, Cornell University - May 2019
 
 [The Isostatic Conjecture](https://arxiv.org/abs/1702.08442) - Connelly Group at Cornell University (2017)
 
-## Research Experience
-Hadron production experiment (EMPHATIC) with Prof. E. Kearns (BU)
+## Past Projects
+### Hadron production experiment (EMPHATIC) with Prof. E. Kearns (BU)
 
-Quark and gluon interaction simulations with Prof. H. Beauchemin (Tufts University)
+### Quark and gluon interaction simulations with Prof. H. Beauchemin (Tufts University)
 
-Cyclotron simulations with Prof. J. Conrad (MIT)
+### Cyclotron simulations with Prof. J. Conrad (MIT)
 
-Simplicial complexes with Prof. E. Swartz (Cornell University)
+### Simplicial complexes with Prof. E. Swartz (Cornell University)
 
-Disk packing and rigidity with Prof. R. Connelly (Cornell University)
+### Disk packing and rigidity with Prof. R. Connelly (Cornell University)
