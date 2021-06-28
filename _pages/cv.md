@@ -12,6 +12,8 @@ redirect_from:
 ## Education
 Ph.D in Physics, Boston University (2019 - present)
 
+M.A. in Physics, Boston University (2021)
+
 B.A. in Physics and Mathematics, Cornell University (2019)
 
 ## Past research projects
