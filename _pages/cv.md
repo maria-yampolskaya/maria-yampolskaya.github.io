@@ -10,26 +10,22 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-Ph.D in Physics, Boston University (2019 - present)
+ * Ph.D in Physics, Boston University (2019 - present)
+ * M.A. in Physics, Boston University (2021)
+ * B.A. in Physics and Mathematics, Cornell University (2019)
 
-M.A. in Physics, Boston University (2021)
+## Talks
+ * *Landscape-inspired order parameters for classifying cell fate using single-cell RNA-seq data*, American Physical Society March Meeting 2022
+ * *Cell fates as attractors in the Hopfield model*, Greater Boston Area Statistical Mechanics Meeting 2021
+ * *The Isostatic Conjecture*, Cornell Conference on Rigidity 2017
+ * *The Isostatic Conjecture*, Spring Southeastern Sectional Meeting of the American Mathematical Society 2017
 
-B.A. in Physics and Mathematics, Cornell University (2019)
+## Teaching
+ * PY 105: Introductory Physics for Life Science Majors I — Teaching Fellow
+ * PY 106: Introductory Physics for Life Science Majors II — Teaching Fellow
 
-## Past research projects
- * Hadron production experiment (EMPHATIC) with Ed Kearns (BU)
- * Quark and gluon interaction simulations with Hugo Beauchemin (Tufts University)
- * Cyclotron simulations with Janet Conrad (MIT)
- * Simplicial complexes with Ed Swartz (Cornell University)
- * Disk packing and rigidity with Bob Connelly (Cornell University)
-
-## Publications
-* R. Connelly, S. Gortler, E. Solomonides, and M. Yampolskaya. The Isostatic Conjecture. Discrete and Computational Geometry.
-* D. Winklehner et al. First Commissioning Results of the Multicusp Ion Source at MIT (MIST-1) for H2+. AIP Conference Proceedings.
-
-## Technical skills
-Python, C++, Java, MATLAB, Git, Bash, SolidWorks, Autodesk Inventor
-
-## Leadership & Community Service
- * Cornell Society of Physics Students — Peer Adviser	(2018 - 2019)
- * Cornell Society of Physics Students — Women in Physics Chair	(2017 - 2018)
+## Service and leadership
+ * [BU Students and Faculty in Support of Ukraine](https://www.bu.edu/european/ukraine-initiative/) ([more info](https://linktr.ee/buforukraine))
+ * Boston University Physics Diversity Committee
+ * Boston University Women in Physics
+ * American Physical Society Wikipedia Scientist Course

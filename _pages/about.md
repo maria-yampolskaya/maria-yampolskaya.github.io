@@ -3,9 +3,11 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello! I am a graduate student in the [Physics Department](http://physics.bu.edu/) at Boston University. I've worked on research projects in a variety of fields, from disk packing on a torus to cyclotron simulations. I've recently settled into a (hopefully stable) energy minimum working on theoretical biophysics with [Pankaj Mehta](http://physics.bu.edu/~pankajm/). The group studies statistical mechanics of disordered systems. Currently I'm working on projects relating to single-cell RNA-sequencing and ecological dynamics as convex optimization.
+I am a graduate student working in biophysics theory in [Pankaj Mehta](http://physics.bu.edu/~pankajm/)'s group in the Boston University [Physics Department](http://physics.bu.edu/). I'm interested in statistical physics and how organization arises from complex systems.
+
+It's incredible how a single cell can develop into a complicated organism with highly specialized tissues. How does this process of development occur so consistently in billions of creatures across Earth? From error correction in DNA replication to robustness in cellular differentiation, development is a source of fascinating physical phenomena. I'm interested in modelling cell types as attractor basins in an energy landscape. I have developed a [package for analyzing single-cell RNA-sequencing](https://github.com/Emergent-Behaviors-in-Biology/scTOP) using a Hopfield-model-inspired algorithm from previous work by Pankaj's group. I'm applying this algorithm to samples created by our collaborators with stem cell differentiation protocols. I'm also interested in studying bifurcations in the Hopfield model to better understand cell fate decisions.

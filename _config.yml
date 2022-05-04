@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Maria Yampolskaya"
   avatar           : "tea.jpg"
-  bio              : "Physics graduate student at Boston University (since Fall 2019)"
+  bio              : "Physics PhD candidate at Boston University (since Fall 2019)"
   location         : "SCI 314"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=dY4bXaQAAAAJ"
   email            : mariay@bu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
