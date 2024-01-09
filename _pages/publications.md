@@ -7,6 +7,7 @@ author_profile: true
 
 ## Graduate work in cell fate transitions
  * **M. Yampolskaya**, M. J. Herriges, L. Ikonomou, D. N. Kotton, P. Mehta. scTOP: physics-inspired order parameters for cellular identification and visualization. *Development*. [doi:10.1242/dev.201873](https://doi.org/10.1242/dev.201873) (2023)
+ 
  * M. J. Herriges, **M. Yampolskaya**, et al. Durable alveolar engraftment of PSC-derived lung epithelial cells into immunocompetent mice. *Cell Stem Cell*. [doi:10.1016/j.stem.2023.07.016](https://doi.org/10.1016/j.stem.2023.07.016) (2023)
 
 ## Undergrad work in computational geometry
