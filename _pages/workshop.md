@@ -7,7 +7,7 @@ author_profile: false
 
 ## Methods for Dynamics across Living Systems
 
-**Deadline for registration and abstract submission: April 5, 2026**
+[**Register here -- deadline for registration and abstract submission: April 5, 2026**](https://docs.google.com/forms/d/e/1FAIpQLSeO3s7auXRYXX_HJ1DRur9Fy9gUvDAd82ByTj_Y2J8wbPn2OQ/viewform?usp=header)
 
 Date: April 14, 2026, 8:30 - 17:30
 
@@ -22,9 +22,6 @@ Maria Yampolskaya, maria.yampolskaya [at] umontreal.ca
 Victoria Mochulska, victoria.mochulska [at] mail.mcgill.ca
 
 -- Full program to be determined after the registration deadline --
-
-### Register here
-[Register by April 5th](https://docs.google.com/forms/d/e/1FAIpQLSeO3s7auXRYXX_HJ1DRur9Fy9gUvDAd82ByTj_Y2J8wbPn2OQ/viewform?usp=header)
 
 
 ![Poster for the workshop with a schedule](/images/CAMBAM-workshop.png)
